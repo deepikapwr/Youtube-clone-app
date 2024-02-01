@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: rakesh14/youtube:latest
+          image: dpka531/youtube:latest
           ports:
             - containerPort: 3000  # Your Node.js application should listen on port 3000
 
